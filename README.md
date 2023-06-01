@@ -21,7 +21,7 @@ N/A
 
 ## Usage
 
-```md    ![alt text](assets/images/screenshot.jpeg)```
+```md    ![Screenshot of Website](./assets/images/screenshot.jpeg)```
 
 ## Credits
 
