@@ -1,4 +1,4 @@
-# <Your-Project-Title>
+# <Refactoring>
 
 ## Description
 
@@ -21,9 +21,7 @@ N/A
 
 ## Usage
 
-```md
-    ![alt text](assets/images/screenshot.jpeg)
-    ```
+```md    ![alt text](assets/images/screenshot.jpeg)```
 
 ## Credits
 
