@@ -21,7 +21,7 @@ N/A
 
 ## Usage
 
-```md    ![Screenshot of Website](./assets/images/screenshot.jpeg)```
+![Screenshot of Website](./assets/images/screenshot.jpeg?raw=true "Screenshot")
 
 ## Credits
 
