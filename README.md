@@ -21,9 +21,9 @@ N/A
 
 ## Usage
 
-```md 
-![Screenshot of Website](assets/images/screenshot.jpeg)  
-```
+```md
+    ![alt text](assets/images/screenshot.jpeg)
+    ```
 
 ## Credits
 
