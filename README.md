@@ -1,4 +1,4 @@
-# <Refactoring>
+# Refactoring
 
 ## Description
 
@@ -22,7 +22,7 @@ N/A
 ## Usage
 
 ![Screenshot of Website](./assets/images/screenshot.jpeg?raw=true "Screenshot")
-![Link to Application] (https://vinoshan.github.io/Challenge-1-Refactoring/)
+![Link to Application] (https://vinoshan.github.io/Refactoring/)
 
 ## Credits
 
